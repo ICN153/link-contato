@@ -38,7 +38,8 @@ p {
 
 a{
     text-decoration: none;
-    color: rgb(173, 0, 0);
+    color: rgb(16, 2, 94);
+    text-decoration: underline;
 }
 
 .menu{
